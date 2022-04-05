@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="NuGet.PackageManagement" Version="4.1.0" />
-    <!-- <PackageReference Include="Microsoft.Web.Xdt" Version="2.1.1" /> -->
+    <PackageReference Include="Microsoft.Web.Xdt" Version="2.1.1" NoWarn="NU1701" />
   </ItemGroup>
 </Project>

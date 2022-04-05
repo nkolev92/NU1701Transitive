@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\A\A.csproj" NoWarn="NU1701" />
+    <ProjectReference Include="..\A\A.csproj"/>
   </ItemGroup>
 
   <PropertyGroup>
